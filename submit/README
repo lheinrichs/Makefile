@@ -1,0 +1,1 @@
+If you run the program with the given input file (makefile.txt), it will let you know if the makefile has a cycle or not. It will also only compile the files that have been touched. It should work well! The only time it is printing is in the DepGraph.cpp file when it is going through the reading the dependency nodes. 
